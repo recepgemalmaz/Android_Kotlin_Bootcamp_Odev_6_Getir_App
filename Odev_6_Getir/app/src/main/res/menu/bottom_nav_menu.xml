@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ic_home"
+        android:icon="@drawable/home_icon"
+        android:title=""/>
+    <item android:id="@+id/ic_search"
+        android:icon="@drawable/search_icon"
+        android:title=""/>
+    <item android:id="@+id/ic_change"
+        android:icon="@drawable/icon_change"
+        android:title=""/>
+    <item android:id="@+id/ic_account"
+        android:icon="@drawable/account_icon"
+        android:title=""/>
+    <item android:id="@+id/ic_gift"
+        android:icon="@drawable/gift_icon"
+        android:title=""/>
+</menu>
